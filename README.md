@@ -2,9 +2,6 @@
  Olá! Eu sou o Wagner Ryu, seja bem-vindo(a) ao meu perfil! 👋🏻
 </h3>
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
 <div dir="auto"> 
  <div align="center" dir="auto">
   <a href="https://www.instagram.com/ryuuwk/" rel="nofollow"><img src="https://camo.githubusercontent.com/cc8a4ea180871317216b7557a7a9b8f1b565ce74863323097aa367961c70de96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
