@@ -2,10 +2,6 @@
  Olá! Eu sou o Wagner Ryu, seja bem-vindo(a) ao meu perfil! 👋🏻
 </h3>
 
-<div dir="auto"> 
- <div align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/wagneryu" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>  
-</div>
 <br >
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuzera&show_icons=true&theme=dracula"/>
