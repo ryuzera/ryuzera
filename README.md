@@ -1,6 +1,3 @@
-<h3 align="center" class="heading-element" dir="auto">
- Olá! Eu sou o Wagner Ryu, seja bem-vindo(a) ao meu perfil! 👋🏻
-</h3>
 
 <br >
 <div align="center">
